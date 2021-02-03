@@ -1,0 +1,9 @@
+build/
+dist/
+*.egg
+*.egg-info/
+venv/
+venv.bak/
+.idea/
+set_test_env.sh
+.DS_Store

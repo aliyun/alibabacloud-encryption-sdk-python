@@ -1,0 +1,3 @@
+mock==4.0.3
+pytest==6.2.1
+aliyun_python_sdk_core==2.13.30
